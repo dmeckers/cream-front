@@ -30,7 +30,7 @@ const AudioPlayerButton: React.FC = () => {
       >
         {isPlaying ? "Pause" : "Play"}
       </button>
-      <audio ref={audioRef} src="http://192.168.148.4/cream.mp3" />
+      <audio ref={audioRef} src="https://cream-fm.art/stream" />
     </div>
   );
 };
