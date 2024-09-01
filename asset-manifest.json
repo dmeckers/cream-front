@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cream-front/static/css/main.7dc40771.css",
+    "main.js": "/cream-front/static/js/main.443ef09b.js",
+    "static/js/453.1906af41.chunk.js": "/cream-front/static/js/453.1906af41.chunk.js",
+    "index.html": "/cream-front/index.html",
+    "main.7dc40771.css.map": "/cream-front/static/css/main.7dc40771.css.map",
+    "main.443ef09b.js.map": "/cream-front/static/js/main.443ef09b.js.map",
+    "453.1906af41.chunk.js.map": "/cream-front/static/js/453.1906af41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dc40771.css",
+    "static/js/main.443ef09b.js"
+  ]
+}
