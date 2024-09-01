@@ -17,6 +17,7 @@ const AudioPlayerButton: React.FC = () => {
   return (
     <div className="flex flex-col items-center justify-center h-full">
       <video autoPlay muted loop className="background-video">
+        <audio ref={audioRef} src="https://cream-fm.art/stream" />
         <source
           src={`${process.env.PUBLIC_URL}/background.webm`}
           type="video/webm"
@@ -30,7 +31,6 @@ const AudioPlayerButton: React.FC = () => {
       >
         {isPlaying ? "Pause" : "Play"}
       </button>
-      <audio ref={audioRef} src="https://cream-fm.art/stream" />
     </div>
   );
 };
