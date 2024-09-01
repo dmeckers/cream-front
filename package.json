@@ -2,7 +2,7 @@
   "name": "cream-front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dmeckers.github.io/cream",
+  "homepage": "https://dmeckers.github.io/cream-front",
   "dependencies": {
     "@fontsource/inter": "^5.0.20",
     "@phosphor-icons/react": "^2.1.7",
