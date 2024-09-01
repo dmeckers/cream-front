@@ -1,5 +1,5 @@
 import "./App.css";
-import { Text, PrismaneProvider } from "@prismane/core";
+import { PrismaneProvider } from "@prismane/core";
 import AudioPlayer from "./components/AudioPlayer";
 
 function App() {
