@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cream-front/static/css/main.7dc40771.css",
-    "main.js": "/cream-front/static/js/main.d7ebfee3.js",
+    "main.js": "/cream-front/static/js/main.62246355.js",
     "static/js/453.1906af41.chunk.js": "/cream-front/static/js/453.1906af41.chunk.js",
     "index.html": "/cream-front/index.html",
     "main.7dc40771.css.map": "/cream-front/static/css/main.7dc40771.css.map",
-    "main.d7ebfee3.js.map": "/cream-front/static/js/main.d7ebfee3.js.map",
+    "main.62246355.js.map": "/cream-front/static/js/main.62246355.js.map",
     "453.1906af41.chunk.js.map": "/cream-front/static/js/453.1906af41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dc40771.css",
-    "static/js/main.d7ebfee3.js"
+    "static/js/main.62246355.js"
   ]
 }
